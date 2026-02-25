@@ -4,6 +4,7 @@
 
 .archive {
   margin-bottom: 2em;
+  font-size: 0.75rem; /* 12px — matches sidebar paragraph text */
 
   @include breakpoint($medium) {
     @include span(12 of 12);
