@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Google Scholar profile](https://scholar.google.ca/citations?user=BqcSYUYAAAAJ&hl=en).
+[Google Scholar profile](https://scholar.google.ca/citations?user=BqcSYUYAAAAJ&hl=en)
 
 ## Journal Articles
 
