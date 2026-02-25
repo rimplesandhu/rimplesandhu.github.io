@@ -28,9 +28,10 @@ author:
   pronouns         : # example: "she/her"
   bio              : "Research Scientist, Computational Science Center, National Laboratory of the Rockies"
   location         : "Golden, CO, USA"
-  employer         : "National Laboratory of the Rockies"
-  uri              : # URL
+  employer         : "National Laboratory of the Rockies (NLR)"
+  uri              : https://research-hub.nrel.gov/en/persons/rimple-sandhu/
   email            : "rimple.sandhu@nrel.gov"
+  cv               : "/files/cv.pdf"
 
   # Academic websites
   academia         : # URL

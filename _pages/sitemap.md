@@ -15,7 +15,6 @@ author_profile: true
 - [Projects]({{ base_path }}/projects/)
 - [Data & Software]({{ base_path }}/software/)
 - [Education]({{ base_path }}/education/)
-- [CV]({{ base_path }}/cv/)
 
 ---
 

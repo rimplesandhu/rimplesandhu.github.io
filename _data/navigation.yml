@@ -10,11 +10,5 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "Data & Software"
-    url: /software/
-
   - title: "Education"
     url: /education/
-
-  - title: "CV"
-    url: /cv/

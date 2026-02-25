@@ -7,10 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-## Doctor of Philosophy
-**Civil Engineering** — Carleton University, Ottawa, Canada, 2019
-
-- **Thesis:** *Model Comparison and Sparse Learning of Nonlinear Physics-Based Models Using Bayesian Inference*
+### Doctor of Philosophy, Civil Engineering
+### Carleton University, Ottawa, Canada, 2019
+- **Thesis:** [*Model Comparison and Sparse Learning of Nonlinear Physics-Based Models Using Bayesian Inference*](https://carleton.scholaris.ca/items/3b0f944d-ef6a-4edd-b979-aaead06c1c62)
 - **Supervisors:**
   - Prof. Abhijit Sarkar — Carleton University
   - Prof. Dominique Poirel — Royal Military College of Canada
@@ -40,12 +39,3 @@ author_profile: true
   - Institute Merit-Cum-Means Scholarship (2006–2010)
 
 ---
-
-## Awards & Honors
-
-| Year | Award |
-|------|-------|
-| 2023 | **President's Award** — recognizes one-time exceptional staff achievement, NLR |
-| 2023 | **Leadership Choice Publication Award** — for publishing high-quality journal paper, NLR |
-| 2020 | **Senate Medal** — for outstanding thesis and publication record during PhD, Carleton University |
-| 2019 | **Outstanding Singular Achievement** — for successful conclusion of research project, NRC |
