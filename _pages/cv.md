@@ -23,11 +23,11 @@ Positions
 ======
 * **Research Scientist** (2022–present)
   * Data Analysis and Visualization Group, Computational Science Center
-  * National Renewable Energy Laboratory (NREL), Golden, CO
+  * National Laboratory of the Rockies (NLR), Golden, CO
 
 * **Postdoctoral Researcher** (2020–2022)
   * Wind Energy Science Group, National Wind Technology Center
-  * National Renewable Energy Laboratory (NREL), Golden, CO
+  * National Laboratory of the Rockies (NLR), Golden, CO
 
 * **Visiting Research Scholar** (2018–2020)
   * Aerospace Research Center; Joint appointment with Royal Military College of Canada
@@ -81,8 +81,8 @@ Research Projects
 
 Awards and Honors
 ======
-* President's Award — recognizes one-time exceptional staff achievement, NREL, 2023
-* Leadership Choice Publication Award — for publishing high-quality journal paper, NREL, 2023
+* President's Award — recognizes one-time exceptional staff achievement, NLR, 2023
+* Leadership Choice Publication Award — for publishing high-quality journal paper, NLR, 2023
 * Senate Medal — for outstanding thesis and publication record during PhD, Carleton University, 2020
 * Outstanding Singular Achievement — for successful conclusion of research project, NRC, 2019
 

@@ -7,8 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+<ol>
+{% assign projects = site.portfolio | sort: "date" | reverse %}
+{% for post in projects %}
+  <li>
+    <strong>{{ post.title }}</strong> ({{ post.timeline }})<br>
+    <em>Funding:</em> {{ post.funding }}<br>
+    {{ post.excerpt }}
+  </li>
 {% endfor %}
-
+</ol>

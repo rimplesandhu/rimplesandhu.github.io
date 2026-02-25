@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Rimple Sandhu"
 title_separator          : "-"
 name                     : &name "Rimple Sandhu"
-description              : &description "Research Scientist at NREL. Scientific machine learning, uncertainty quantification, and energy-efficient computing."
+description              : &description "Research Scientist at NLR. Scientific machine learning, uncertainty quantification, and energy-efficient computing."
 url                      : https://rimplesandhu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Rimple Sandhu, Ph.D."
   pronouns         : # example: "she/her"
-  bio              : "Research Scientist, Computational Science Center, National Renewable Energy Laboratory"
+  bio              : "Research Scientist, Computational Science Center, National Laboratory of the Rockies"
   location         : "Golden, CO, USA"
-  employer         : "National Renewable Energy Laboratory"
+  employer         : "National Laboratory of the Rockies"
   uri              : # URL
   email            : "rimple.sandhu@nrel.gov"
 

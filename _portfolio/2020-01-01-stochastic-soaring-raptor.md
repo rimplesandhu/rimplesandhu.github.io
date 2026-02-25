@@ -3,6 +3,8 @@ title: "Stochastic Movement Modeling of Soaring Raptors using Telemetry Data"
 excerpt: "Probabilistic simulation and inference frameworks for predicting golden eagle movement near wind energy facilities."
 collection: portfolio
 date: 2020-01-01
+funding: "Wind Energy Technologies Office, U.S. DOE"
+timeline: "2020–2023"
 ---
 
 **Status:** Completed (2020–2023)
@@ -15,10 +17,10 @@ Wind turbines pose collision risks to soaring raptors — particularly golden ea
 ## Key Outputs
 
 - **Stochastic Soaring Raptor Simulator (SSRS):** Open-source Python software for agent-based simulation of raptor flights (U.S. DOE EERE, 2021; DOI: [10.11578/DC.20210903.2](https://doi.org/10.11578/DC.20210903.2))
-- Stochastic agent-based model published in *Ecological Modelling* (2022) — NREL President's Award recipient
+- Stochastic agent-based model published in *Ecological Modelling* (2022) — NLR President's Award recipient
 - 3D terrain-induced updraft model published in *Movement Ecology* (2024)
 - Predictive movement model using look-ahead environmental factors accepted in *Ecology and Evolution* (2025)
-- Media coverage: ["NREL Tool Aims To Predict Interactions Between Soaring Eagles and Wind Turbines"](https://www.nrel.gov), NREL, 2022
+- Media coverage: ["NLR Tool Aims To Predict Interactions Between Soaring Eagles and Wind Turbines"](https://www.nrel.gov), NLR, 2022
 
 ## Skills and Methods
 

@@ -7,8 +7,11 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Research"
+  - title: "Projects"
     url: /portfolio/
+
+  - title: "Data & Software"
+    url: /software/
 
   - title: "CV"
     url: /cv/

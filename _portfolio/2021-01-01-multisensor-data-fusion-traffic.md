@@ -3,6 +3,8 @@ title: "Multisensor Data Fusion of Traffic Trajectory Data at the Edge"
 excerpt: "Real-time fusion of heterogeneous sensor streams from roadside infrastructure for cooperative traffic perception on edge hardware."
 collection: portfolio
 date: 2021-01-01
+funding: "LDRD/DOE; SMART Program/DOT"
+timeline: "2021–present"
 ---
 
 **Status:** Active (2021–present)
@@ -18,7 +20,7 @@ Roadside infrastructure sensors — cameras, LiDAR, and radar — generate high-
 - Developed a multi-sensor object tracking dataset published in *IEEE Data Descriptions* (2025)
 - Designed Kalman-filter-based sensor fusion pipelines for heterogeneous sensors on edge hardware
 - Published ConOps for next-generation cooperative perception-based traffic control (ICTD, 2022)
-- Contributed to media coverage: ["Giving Vehicles a Safe Green Light"](https://www.nrel.gov), NREL, 2022; ["Driving Innovation in Traffic Optimization"](https://carleton.ca), Carleton University, 2023
+- Contributed to media coverage: ["Giving Vehicles a Safe Green Light"](https://www.nrel.gov), NLR, 2022; ["Driving Innovation in Traffic Optimization"](https://carleton.ca), Carleton University, 2023
 
 ## Skills and Methods
 

@@ -3,6 +3,8 @@ title: "Biological Computing as Energy-efficient Alternative to Digital Computin
 excerpt: "Investigating biochemical reaction networks and active inference as energy-efficient substrates for scientific computing and control."
 collection: portfolio
 date: 2025-01-01
+funding: "LDRD, U.S. Department of Energy"
+timeline: "2025–present"
 ---
 
 **Status:** Active (2025–present)

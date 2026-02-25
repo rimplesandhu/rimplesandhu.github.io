@@ -3,6 +3,8 @@ title: "Physics-informed Bayesian Learning of Nonlinear Dynamical Systems"
 excerpt: "Sparse Bayesian learning and model selection methods for nonlinear physics-based models of structural and aeroelastic systems."
 collection: portfolio
 date: 2014-01-01
+funding: "NSERC Canada; Ontario Graduate Scholarship; Carleton University"
+timeline: "2014–2019"
 ---
 
 **Status:** Completed (2014–2019, Ph.D. dissertation)

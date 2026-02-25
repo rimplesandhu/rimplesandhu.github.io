@@ -3,7 +3,7 @@ title: "Stochastic agent-based model for predicting turbine-scale raptor movemen
 collection: publications
 category: manuscripts
 permalink: /publication/2022-06-01-stochastic-agent-raptor-movements
-excerpt: 'A stochastic agent-based model for simulating and predicting golden eagle movements near wind turbines using terrain-induced thermal updraft fields. NREL President&apos;s Award recipient.'
+excerpt: 'A stochastic agent-based model for simulating and predicting golden eagle movements near wind turbines using terrain-induced thermal updraft fields. NLR President&apos;s Award recipient.'
 date: 2022-06-01
 venue: 'Ecological Modelling'
 paperurl:

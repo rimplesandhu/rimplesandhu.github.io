@@ -3,6 +3,8 @@ title: "Surrogate-powered Sensitivity Analysis for High-fidelity Aeroelastic Sim
 excerpt: "Global sensitivity analysis of transonic flutter using polynomial chaos surrogate models coupled to high-fidelity CFD-CSD solvers."
 collection: portfolio
 date: 2018-01-01
+funding: "National Research Council Canada"
+timeline: "2018–2019"
 ---
 
 **Status:** Completed (2018–2019)
