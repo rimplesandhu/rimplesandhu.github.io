@@ -26,11 +26,10 @@ author:
   avatar           : "profile.png"
   name             : "Rimple Sandhu, Ph.D."
   pronouns         : # example: "she/her"
-  bio              : "Research Scientist, Computational Science Center, National Laboratory of the Rockies"
+  bio              : "Research Scientist, Computational Science Center, National Laboratory of the Rockies (NLR)"
   location         : "Golden, CO, USA"
-  employer         : "National Laboratory of the Rockies (NLR)"
   uri              : https://research-hub.nrel.gov/en/persons/rimple-sandhu/
-  email            : "rimple.sandhu@nrel.gov"
+  email            : "rimple.sandhu@nlr.gov"
   cv               : "/files/cv.pdf"
 
   # Academic websites
